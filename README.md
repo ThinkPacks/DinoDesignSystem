@@ -1,1 +1,1 @@
-# PiuPiuDesignSystem
+# DinoDesignSystem
